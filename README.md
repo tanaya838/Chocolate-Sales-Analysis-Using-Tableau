@@ -69,6 +69,6 @@ Project Development Process:
 
 •	Developed a Story by integrating Worksheets and Dashboard to present insights in a structured flow
 
-This project aims to solve these challenges by building an interactive Tableau Dashboard and Story that transforms raw sales data into meaningful business insights, enabling stakeholders to monitor performance, identify trends, and make informed strategic decisions.
+This project aims to solve these challenges by building an interactive Tableau Dashboard and Story that transforms raw sales data into meaningful business insights, enabling stakeholders to monitor performance, identify trends, and make strategic decisions.
 
 Dashboard Preview: 
