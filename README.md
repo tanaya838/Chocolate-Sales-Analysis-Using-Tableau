@@ -71,4 +71,4 @@ Project Development Process:
 
 This project aims to solve these challenges by building an interactive Tableau Dashboard and Story that transforms raw sales data into meaningful business insights, enabling stakeholders to monitor performance, identify trends and make strategic decisions.
 
-Dashboard Preview: 
+Dashboard Preview: (https://github.com/tanaya838/Chocolate-Sales-Analysis-Using-Tableau/blob/main/Chocolate%20Sales%20Analysis%20Dashboard.gif)
