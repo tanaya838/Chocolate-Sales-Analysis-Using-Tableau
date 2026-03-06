@@ -4,7 +4,7 @@ The objective of this project is to analyse Chocolate Sales data using Tableau t
 
 Tools & Technologies:
 
-📊 Microsoft Excel:-
+📊 Microsoft Excel:
 
 •	Used for initial data storage and dataset preparation
 
@@ -12,7 +12,7 @@ Tools & Technologies:
 
 •	Structured raw sales data into analysis-ready format
 
-📈 Tableau:-
+📈 Tableau:
 
 •	Connected Excel dataset to Tableau for visualization
 
